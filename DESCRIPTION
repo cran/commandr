@@ -1,8 +1,8 @@
 Package: commandr
 Title: Command pattern in R
-Version: 0.9.3
+Version: 0.9.5
 Author: Michael Lawrence
-Depends: methods
+Depends: R (>= 2.15.0), methods
 Imports: methods, utils
 Description: An S4 representation of the Command design pattern. The
         Operation class is a simple implementation using closures and
@@ -14,6 +14,6 @@ Description: An S4 representation of the Command design pattern. The
         GUI actions, parallel processing, etc.
 Maintainer: Tengfei Yin <yintengfei@gmail.com>
 License: Artistic-2.0
-Packaged: 2012-08-30 16:03:18 UTC; tengfei
+Packaged: 2012-09-03 02:58:20 UTC; tengfei
 Repository: CRAN
-Date/Publication: 2012-08-30 18:27:12
+Date/Publication: 2012-09-04 05:53:59

@@ -1,4 +1,4 @@
-ea6a6e84c38987e7aa033df6c65ba348 *DESCRIPTION
+1c1f0cd7cf9c79e2d4337910f70d62eb *DESCRIPTION
 4c681d0987801ec3559044349fd2d149 *NAMESPACE
 781d21b490e5efe00f7017bba94409dd *R/Command-class.R
 9997a49f254e76c3b3a37455688eb159 *R/Operation-class.R
@@ -9,7 +9,7 @@ ea6a6e84c38987e7aa033df6c65ba348 *DESCRIPTION
 96130082c2e2e71d28d1755b8b72e268 *R/prompt.R
 b192d398cad079bb855ed1a0410dadd4 *R/utils.R
 71abe42bcfde91f6dc36c1a3d4a18b93 *inst/doc/intro.Rnw
-479297b9cb00643962c21d5bbdc9df78 *inst/doc/intro.pdf
+b50f5861989c3d5e676f48b6bd1b7485 *inst/doc/intro.pdf
 e2cec93c867dbb0b460c257806fb8ae3 *inst/example/test.R
 051e4c1705cbd600f96c3ec8b2665c96 *man/Command-class.Rd
 687acba967f4d8dc259733258bdc681b *man/Operation-class.Rd
