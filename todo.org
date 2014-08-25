@@ -1,3 +1,0 @@
-* Pipeline
-** TODO Consider a "protocol group" for in/out types separate from stage
-** TODO Set valueClass on methods with a known output type

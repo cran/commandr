@@ -1,4 +1,4 @@
-1c1f0cd7cf9c79e2d4337910f70d62eb *DESCRIPTION
+a1fca000d29ddad2cd4ca7b2ea8b5248 *DESCRIPTION
 4c681d0987801ec3559044349fd2d149 *NAMESPACE
 781d21b490e5efe00f7017bba94409dd *R/Command-class.R
 9997a49f254e76c3b3a37455688eb159 *R/Operation-class.R
@@ -8,9 +8,10 @@
 4de9c731ccaad68aa3837168e763f2c1 *R/Stage-class.R
 96130082c2e2e71d28d1755b8b72e268 *R/prompt.R
 b192d398cad079bb855ed1a0410dadd4 *R/utils.R
+641737ae3588ae0a85f1117032fe3146 *build/vignette.rds
+f494abe64714a801d3f8353605e800ae *inst/doc/intro.R
 71abe42bcfde91f6dc36c1a3d4a18b93 *inst/doc/intro.Rnw
-b50f5861989c3d5e676f48b6bd1b7485 *inst/doc/intro.pdf
-e2cec93c867dbb0b460c257806fb8ae3 *inst/example/test.R
+04fd6b6f7ed9f4f08d5988a3007d9961 *inst/doc/intro.pdf
 051e4c1705cbd600f96c3ec8b2665c96 *man/Command-class.Rd
 687acba967f4d8dc259733258bdc681b *man/Operation-class.Rd
 447b1461d0909cf6dd0f250e687d5039 *man/Pipeline-class.Rd
@@ -19,4 +20,4 @@ c92ba29c22b4fdb6c54b8ab310ad01ed *man/PipelineData-class.Rd
 3def44166b51e90f9e7a6cebf24bf006 *man/Stage-class.Rd
 30c4092c92d1580a56cb08ea63234b3b *man/setProtocol.Rd
 182a4344de4aee690e140a26c8fb8992 *man/setStage.Rd
-bf3326f788a980355e99df48c1949975 *todo.org
+71abe42bcfde91f6dc36c1a3d4a18b93 *vignettes/intro.Rnw
